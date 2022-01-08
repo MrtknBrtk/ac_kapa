@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "660056052181",
+    "firebase_url": "https://ackapa2-default-rtdb.europe-west1.firebasedatabase.app",
+    
+    "project_id": "ackapa2",
+    "storage_bucket": "ackapa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660056052181:android:e8a7fe2843f2ca35cb2d5c",
+        "android_client_info": {
+          "package_name": "com.example.ac_kapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660056052181-70k3raqocvh4s33i3oun7qcvr8h8bj6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3E5PYwlJXp2SKKpI4thSw9oY7mtmmfoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660056052181-70k3raqocvh4s33i3oun7qcvr8h8bj6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
